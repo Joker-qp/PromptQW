@@ -1,0 +1,8 @@
+streamlit
+fastapi
+uvicorn
+sqlmodel
+httpx
+google-genai
+cryptography
+python-dotenv
